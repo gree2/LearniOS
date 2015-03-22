@@ -4,8 +4,8 @@ Learn iOS.
 ### stanford
 
 1. [Logistics, iOS 8 Overview](http://gree2.github.io/stanford/2015/03/21/stanford-1-logistics-ios-8-overview/)
-2. More Xcode and Swift, MVC
-3. Applying MVC
+2. [More Xcode and Swift, MVC](http://gree2.github.io/stanford/2015/03/22/stanford-2-more-xcode-and-swift-mvc/)
+3. [Applying MVC](http://gree2.github.io/stanford/2015/03/22/stanford-3-applying-mvc/)
 4. More Swift and Foundation Frameworks
 5. Objective-C Compatibility, Property List, Views
 6. Protocols and Delegation, Gestures
